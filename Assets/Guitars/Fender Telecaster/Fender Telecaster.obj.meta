@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 645109147c011664b82bbda968b0355c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bottom_CoverMat
+    second: {fileID: 2100000, guid: 281a9a2bd5a7ee842baef4675c4afb9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Bolt1Mat
+    second: {fileID: 2100000, guid: ac7ae0f831111c54fb9b9f146515a05b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Screw5Mat
+    second: {fileID: 2100000, guid: 3738c5b94beb654409ad246a9e7ed05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Screw5_Cap_116Mat
+    second: {fileID: 2100000, guid: e63d1f29cdc34964993b5393936393d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Screw5_Cap_213Mat
+    second: {fileID: 2100000, guid: 0d9634162af0ce84eb2652287805c9cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Spring1Mat
+    second: {fileID: 2100000, guid: e5d8f4821c2a7314da6eb16a68eba302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Spring1_Cap_117Mat
+    second: {fileID: 2100000, guid: 0652210b5de0c7f4f883a39f2dd5b6a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Bolt_Spring1_Cap_215Mat
+    second: {fileID: 2100000, guid: fbeacc0156aaa204f919880df319cca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_HyperNURBS_Sweep_NURBS_13Mat
+    second: {fileID: 2100000, guid: 8e76b06c87d6ee64aadd3db9ecb96d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Tube5Mat
+    second: {fileID: 2100000, guid: 4b92514b5185edb4eaf92c9bfe35dd23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_0_Tube_14Mat
+    second: {fileID: 2100000, guid: 5124fddc2d4d90d4d9ea7f66547703cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Bolt3Mat
+    second: {fileID: 2100000, guid: 4578fe453b839d4468992a4490a53f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Screw4Mat
+    second: {fileID: 2100000, guid: 658b7ee5497270844bf9adebfc6e9d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Screw4_Cap_114Mat
+    second: {fileID: 2100000, guid: fae5464a778533c4e9bb731eb8897054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Screw4_Cap_210Mat
+    second: {fileID: 2100000, guid: b5757516bf1187645b4cc5fa22210423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Spring3Mat
+    second: {fileID: 2100000, guid: 8938400fe8f4f474b9a1af4d383fa9a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Spring3_Cap_115Mat
+    second: {fileID: 2100000, guid: e1e9bd4a3ea14054882bf7f1ce287da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Bolt2_Spring3_Cap_212Mat
+    second: {fileID: 2100000, guid: 2d5faa59d9f06694e9ad319810ae456a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_HyperNURBS5_Sweep_NURBS_11Mat
+    second: {fileID: 2100000, guid: 5b12f490daaa71a41a7efed93799e9af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Tube2Mat
+    second: {fileID: 2100000, guid: a69c0625943e9a64e8f13c097024e322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_1_Tube_12Mat
+    second: {fileID: 2100000, guid: 4a58990a66b7001408719f42a7481080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Bolt5Mat
+    second: {fileID: 2100000, guid: 0c65dac3fe2ac384fb61358f08445267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Screw3Mat
+    second: {fileID: 2100000, guid: 4c2f1d89f6cd70c4094ee13908128954, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Screw3_Cap_112Mat
+    second: {fileID: 2100000, guid: 59dc7511fe888c84baaefa16809d4909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Screw3_Cap_28Mat
+    second: {fileID: 2100000, guid: 06e5f026ec52b1c429a36c961fd6cae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Spring5Mat
+    second: {fileID: 2100000, guid: 7941e71dedd168543af917c0652a8cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Spring5_Cap_113Mat
+    second: {fileID: 2100000, guid: 77d229ccf93c6ea47b7902a0d09ec9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Bolt4_Spring5_Cap_29Mat
+    second: {fileID: 2100000, guid: c1380f2a94ca524418d81a56cd97a357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_HyperNURBS3_Sweep_NURBS_1Mat
+    second: {fileID: 2100000, guid: 394c0a88f2b356c46958f55e294d042e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Tube1Mat
+    second: {fileID: 2100000, guid: 2f6cdbf7be01b1a42b4e98c483898f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_2_Tube_11Mat
+    second: {fileID: 2100000, guid: 1819410e9063f8b468de81fbca23f48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Bolt7Mat
+    second: {fileID: 2100000, guid: e97fcd67120a33c44aa3d04b72119918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Screw2Mat
+    second: {fileID: 2100000, guid: 786ba711dc24c5a4e87c4aecf868e087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Screw2_Cap_110Mat
+    second: {fileID: 2100000, guid: 5ed67a358a6b7384baa4127b059c8584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Screw2_Cap_24Mat
+    second: {fileID: 2100000, guid: 798167c5024a31c40899d26f41177b2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Spring4Mat
+    second: {fileID: 2100000, guid: 7b630ffd24c855a49bbd13f33d328fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Spring4_Cap_111Mat
+    second: {fileID: 2100000, guid: 502159284cdebec4f80079d04d1d3ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Bolt6_Spring4_Cap_26Mat
+    second: {fileID: 2100000, guid: 76989ce8dc8c2be40bd403d2dbaf39b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_HyperNURBS4_Sweep_NURBS_12Mat
+    second: {fileID: 2100000, guid: d86ca306be57aa1408b69d2713d63747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_TubeMat
+    second: {fileID: 2100000, guid: 2255e2788974ad54189fccd8aa498dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_3_Tube_1Mat
+    second: {fileID: 2100000, guid: f48f674ccaf6f7741b2ed4c032810b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_Bolt9Mat
+    second: {fileID: 2100000, guid: 393d8d70cdd927449a4b394b701e19dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_ScrewMat
+    second: {fileID: 2100000, guid: 343108c688d27e44bba2f21044d2854c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_Screw_Cap_18Mat
+    second: {fileID: 2100000, guid: f2b6f7824043a114b8bd99512aed252b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_Screw_Cap_21Mat
+    second: {fileID: 2100000, guid: 98b3bcf90b111124580c5302bf1e8401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_Spring2Mat
+    second: {fileID: 2100000, guid: e35247a29bc88e04f99412bda2e2b5cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_Spring2_Cap_19Mat
+    second: {fileID: 2100000, guid: 363b5bf729112014d9b37a62a2746a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Bolt8_Spring2_Cap_23Mat
+    second: {fileID: 2100000, guid: 8b3fa5c0f800c33429993d0eb7ba7e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_HyperNURBS2_Sweep_NURBS_14Mat
+    second: {fileID: 2100000, guid: ed24e2fee7a2d3c40a8c3d4a2b67337b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Tube3Mat
+    second: {fileID: 2100000, guid: 5457c9c134acac14da8ec66387eeb9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_4_Tube_13Mat
+    second: {fileID: 2100000, guid: ecdd353574f3c6e40bab0f6a54902d96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_Bolt11Mat
+    second: {fileID: 2100000, guid: 54fea09198a73d9478faed6fcc4965d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_Screw1Mat
+    second: {fileID: 2100000, guid: b8e08c885e6fca8429660d2c92e24268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_Screw1_Cap_16Mat
+    second: {fileID: 2100000, guid: be55af5029377194f932579f18b88c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_Screw1_Cap_25Mat
+    second: {fileID: 2100000, guid: c6ec0ad2aa152874489861254817f8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_SpringMat
+    second: {fileID: 2100000, guid: b6971574b82baf743a94b90eeffc58d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_Spring_Cap_17Mat
+    second: {fileID: 2100000, guid: a3fd701379d66ef4db2af9484eafe62e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Bolt10_Spring_Cap_2Mat
+    second: {fileID: 2100000, guid: 77d2de2224f03ce40827e8a7dead6cea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_HyperNURBS1_Sweep_NURBS_15Mat
+    second: {fileID: 2100000, guid: a9e384527314d994082b5e423d55e83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Tube4Mat
+    second: {fileID: 2100000, guid: d42d8457b8f9f9c4d9777e3a4fec0c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Bridge_Cloner_Null_5_Tube_15Mat
+    second: {fileID: 2100000, guid: 55b3b8dce8e25f84d87acb9cae263347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_BodyMat
+    second: {fileID: 2100000, guid: 05c391b3424e7b84a9d6088f98be553a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Bridge1Mat
+    second: {fileID: 2100000, guid: 5ab683c569d736f44876c26c495ce4da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_0Mat
+    second: {fileID: 2100000, guid: a53fa7620f045c04692426344660dd6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_10Mat
+    second: {fileID: 2100000, guid: 7a3bee779ed9e5143adecc1527b10b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_11Mat
+    second: {fileID: 2100000, guid: 07798c3b3efe8c54a958959357706e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_12Mat
+    second: {fileID: 2100000, guid: d57df3affbd5f7949bcf64d922b6db56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_13Mat
+    second: {fileID: 2100000, guid: 62c6cd6f26472294882413edca47f12d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_14Mat
+    second: {fileID: 2100000, guid: 671c6fa1e4e75dc42b42104e092aa620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_15Mat
+    second: {fileID: 2100000, guid: 9a4a8945aea8ecc4c978bfacdf70de50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_16Mat
+    second: {fileID: 2100000, guid: 9b287c343f48fd1409f7ecb24cbae6d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_17Mat
+    second: {fileID: 2100000, guid: 439dbf56fedf0bb48939b46055cbfc9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_18Mat
+    second: {fileID: 2100000, guid: 0b087bf4f017e8848a5f33b3a767cc46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_19Mat
+    second: {fileID: 2100000, guid: 163bfe1a10bd25143ada867b72f3aa9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_1Mat
+    second: {fileID: 2100000, guid: b7385549c6be4674aa9451da255727e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_20Mat
+    second: {fileID: 2100000, guid: 39f66a8dbf479d048b4e7eb09eb49e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_21Mat
+    second: {fileID: 2100000, guid: faa674e861273ee469497f72517c9769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_2Mat
+    second: {fileID: 2100000, guid: c7592dd9e41382b4ab13c31cac3a5cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_3Mat
+    second: {fileID: 2100000, guid: 5296faa8acd3ebd42a0ed027327c8a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_4Mat
+    second: {fileID: 2100000, guid: dd1b0f2b70f3b33459eb1d31d21839ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_5Mat
+    second: {fileID: 2100000, guid: aeb7ccb4a03f8ee418c9425f1afdf324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_6Mat
+    second: {fileID: 2100000, guid: 5d136428a18566f4f92f3c916e8b27f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_7Mat
+    second: {fileID: 2100000, guid: 81d2b2c1a8571554799e84aa5ed6d485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_8Mat
+    second: {fileID: 2100000, guid: e4706ae3e0b771b479444f4c990288cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Frets_Frets1_Fret_9Mat
+    second: {fileID: 2100000, guid: cb9a1ff5380f93941b765c5518a281ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_1_Main1Mat
+    second: {fileID: 2100000, guid: a1e514b40fa899642a21a8241a2284e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_1_Nut4Mat
+    second: {fileID: 2100000, guid: 124332ac756d7d0419266ed889be781e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_1_Pin4Mat
+    second: {fileID: 2100000, guid: 1f88054c5b75e934f9e9d0e870dca0b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_1_Turn4Mat
+    second: {fileID: 2100000, guid: c0b1f4be1a0059948adfd21486356254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_2_Main3Mat
+    second: {fileID: 2100000, guid: dd1d6000c47f172439ef7488888c0c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_2_Nut3Mat
+    second: {fileID: 2100000, guid: e7c023d6efb96114fa269c44aa834680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_2_Pin2Mat
+    second: {fileID: 2100000, guid: c2b6a19abffa93e4fb036d154c9c02f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_2_Turn5Mat
+    second: {fileID: 2100000, guid: a8788c6f3ceea6a4eab747119408e054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_3_Main2Mat
+    second: {fileID: 2100000, guid: 7725d4a2fd9c238408f10baa2bd8ef9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_3_Nut1Mat
+    second: {fileID: 2100000, guid: e536eae841fd227459b4919d2a921454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_3_PinMat
+    second: {fileID: 2100000, guid: 04418718efc7eee4e9d409787b4d6ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_3_Turn1Mat
+    second: {fileID: 2100000, guid: 48ced88d3a9a29d499d2392a496db121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_4_Main5Mat
+    second: {fileID: 2100000, guid: 1374b498149cb144dba76b6eb59023cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_4_Nut5Mat
+    second: {fileID: 2100000, guid: e97088b62e9653d4b9c0ea353d2c521e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_4_Pin5Mat
+    second: {fileID: 2100000, guid: f97e2b9b513852043b39513d13a8be5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_4_TurnMat
+    second: {fileID: 2100000, guid: 2ac42d668c1984a49934d14ca107b4e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_MainMat
+    second: {fileID: 2100000, guid: 1b81c2eb714ef544bba8ffb55aca4b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_Nut2Mat
+    second: {fileID: 2100000, guid: 84658f936a791304289e532716548ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_Pin3Mat
+    second: {fileID: 2100000, guid: 027de14266a8a73438c3c04a71738921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Instance_Turn3Mat
+    second: {fileID: 2100000, guid: b0f574e61b7da9847b2b20e521d60451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Main4Mat
+    second: {fileID: 2100000, guid: a08db555af532d54ea1e30b6a9d0a220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_NutMat
+    second: {fileID: 2100000, guid: 53d7e75d596456f4da5477d7c552ca2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Pin1Mat
+    second: {fileID: 2100000, guid: ecf17cb5e6547d045b74c966b9c9fed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Machine_Heads_Machine_head_Turn2Mat
+    second: {fileID: 2100000, guid: 17b98a756dafcf94eaed2450d280e6d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_NeckMat
+    second: {fileID: 2100000, guid: c9b650660fde24d40891939a27c715ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_PickguardMat
+    second: {fileID: 2100000, guid: 82751c4075dc3f245bfa63abb5ab1e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Pickups_Bridge_PickupMat
+    second: {fileID: 2100000, guid: 81653c41cea7a104fb8ee6b46d49e8f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Pickups_Neck_PickupMat
+    second: {fileID: 2100000, guid: 4fa3038961fb67f419b19b0efd9570f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Strap_Holders_Strap_HolderMat
+    second: {fileID: 2100000, guid: 3fe33be5527f66841905153334e1fe9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Strap_Holders_Strap_Holder_1Mat
+    second: {fileID: 2100000, guid: 21760d5888dc82144ba9131408368345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fender_Telecaster_Volume_Tone_PanelMat
+    second: {fileID: 2100000, guid: abf3e8e2259824040b3397ae04ba86f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_10Mat
+    second: {fileID: 2100000, guid: b1b6f798401bb2b43813dea0beed39bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_11Mat
+    second: {fileID: 2100000, guid: a5758e7b733b12b48a4482086151cfc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_2Mat
+    second: {fileID: 2100000, guid: 29b22fae33ec2db42baff3343dd2b112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_3Mat
+    second: {fileID: 2100000, guid: c6b16c047cebe49478bab6ab55e210d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_4Mat
+    second: {fileID: 2100000, guid: da506b080b7f33449afb808f3e3359ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_5Mat
+    second: {fileID: 2100000, guid: 4f9430f804bed9d47ba0257a7660f122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_6Mat
+    second: {fileID: 2100000, guid: e79d8dbe255d6d345960882026e218e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_7Mat
+    second: {fileID: 2100000, guid: 392ddc42486e1d5408a4d5c9dc743c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_8Mat
+    second: {fileID: 2100000, guid: 6b3b765e13122bd4b8d6a1912a6d0b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Fret_dividers_Cylinder_9Mat
+    second: {fileID: 2100000, guid: fe7acb8925f6c984b938212b8854bf06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Pickup_Elements_Bridge2_Stub_01_Stub_06Mat
+    second: {fileID: 2100000, guid: 4964e9a667ded3b419486c0f61fe1c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Pickup_Elements_Bridge2_Stub_02_Stub_061Mat
+    second: {fileID: 2100000, guid: 82009bf2e08d25343a9c679b8e2fda10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Pickup_Elements_Bridge2_Stub_03_Stub_062Mat
+    second: {fileID: 2100000, guid: 8675f63a5490d6f488fc0a22665e2580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Pickup_Elements_Bridge2_Stub_04_Stub_065Mat
+    second: {fileID: 2100000, guid: 20841884e1e4bec47a4c347951481e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Pickup_Elements_Bridge2_Stub_05_Stub_064Mat
+    second: {fileID: 2100000, guid: b8f971bd53eec2f40b4b58115bf757c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Pickup_Elements_Bridge2_Stub_063Mat
+    second: {fileID: 2100000, guid: 55f73c381c2281645a235dd5b7833d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bottom_Screw_1Mat
+    second: {fileID: 2100000, guid: 70f8a9e5a6c25d9459e4b795d47d359b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bottom_Screw_1_1Mat
+    second: {fileID: 2100000, guid: 7620e149476c83c4a9b55aa7219dcb9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bottom_Screw_1_2Mat
+    second: {fileID: 2100000, guid: dcee907dcb616094e9235c8a38db8395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bottom_Screw_1_3Mat
+    second: {fileID: 2100000, guid: f4e1d482950924946bf8caf6a9533b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bridge3_Screw_13Mat
+    second: {fileID: 2100000, guid: 743d2398208e0f341814d445f13ba15b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bridge3_Screw_22Mat
+    second: {fileID: 2100000, guid: 86f6bc2404e8bbc4c8918404a621baf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bridge3_Screw_32Mat
+    second: {fileID: 2100000, guid: cec97890481292848a3c0f59eaf8fa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bridge3_Screw_4Mat
+    second: {fileID: 2100000, guid: ba8ffae5b7ff3b94e8d81c70aab81095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Bridge3_Screw_51Mat
+    second: {fileID: 2100000, guid: 01afb133e1c352b4d87e945da89d3029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Control_Screw_12Mat
+    second: {fileID: 2100000, guid: 0bc64f6893e0aeb4f9c3f8608edca42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Control_Screw_21Mat
+    second: {fileID: 2100000, guid: d8a30b14920b5264fb346d3731753d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Control_Screw_31Mat
+    second: {fileID: 2100000, guid: f9bd0bc5e289f4c4486c63525c585c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Control_Screw_41Mat
+    second: {fileID: 2100000, guid: 516608b70d2fc2d49a0560b81bb134bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_10Mat
+    second: {fileID: 2100000, guid: 8ae591e4602798440b36d6ae54aea12a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_11Mat
+    second: {fileID: 2100000, guid: 3b29ea685ddb9b240a8409c10d9befc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_2Mat
+    second: {fileID: 2100000, guid: ab7ee1bf8b473a44f88ac7577dff882e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_3Mat
+    second: {fileID: 2100000, guid: c82581827ecc3904094dd321bb52a706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_42Mat
+    second: {fileID: 2100000, guid: 86ed1a966dad5104183e00fde543764a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_5Mat
+    second: {fileID: 2100000, guid: e93bf8f794e0cd74b9e9bbdf9f258d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_6Mat
+    second: {fileID: 2100000, guid: 1ae8c6c506942654d846f2c9a63312fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_7Mat
+    second: {fileID: 2100000, guid: 44fba652d0836cf46ad88b6c4539cd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_8Mat
+    second: {fileID: 2100000, guid: 408ffe5698c265f4a98cba6d89a01b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Screws_Pickguard1_Screw_9Mat
+    second: {fileID: 2100000, guid: 15366292e74464e499a98d3a26df6403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_AMat
+    second: {fileID: 2100000, guid: 75a3c20e7c4f19b44ab562a53c02f5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_A_Cap_15Mat
+    second: {fileID: 2100000, guid: 9d438971056407144bf6ac9246475904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_A_Cap_216Mat
+    second: {fileID: 2100000, guid: 47f2c826b8bcb854581dc6f058463c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_BMat
+    second: {fileID: 2100000, guid: cb6010286d8ecc142a256a21e34b7b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_B_Cap_1Mat
+    second: {fileID: 2100000, guid: 90d45aa917d90d3408750ea395bd5241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_B_Cap_27Mat
+    second: {fileID: 2100000, guid: 99a1a28b21d56624c9fa0df9eefd6c2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_DMat
+    second: {fileID: 2100000, guid: ccb220bcbc2aa2848b1f74a0d1763bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_D_Cap_14Mat
+    second: {fileID: 2100000, guid: 7a49691f49a431c469a7a4cfd92563b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_D_Cap_214Mat
+    second: {fileID: 2100000, guid: b9e18c0bfbbe2a04494c5726d300788d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_GMat
+    second: {fileID: 2100000, guid: e56580bfa31057b4f94fa87f3b20f05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_G_Cap_11Mat
+    second: {fileID: 2100000, guid: 53ee0022aee0d2248816fcfcd8bd41e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_G_Cap_211Mat
+    second: {fileID: 2100000, guid: 81e8d5285cfe8f2498fa66894b7c9d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_High_EMat
+    second: {fileID: 2100000, guid: b3b4c262befa656488a42cb077f939cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_High_E_Cap_13Mat
+    second: {fileID: 2100000, guid: 28bc5fb2d5e875442b70e9c392e1d03c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_High_E_Cap_22Mat
+    second: {fileID: 2100000, guid: d2c93612defd68349982093f682d7575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_Low_EMat
+    second: {fileID: 2100000, guid: db84b39b7c6cd2a42bdd454ca3874d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_Low_E_Cap_12Mat
+    second: {fileID: 2100000, guid: 43b5e758346a28648845cd30dc647d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Strings_Low_E_Cap_217Mat
+    second: {fileID: 2100000, guid: 2c83f93275c111045bd335a853b3ef33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Voume_Tone_Panel_Knob_1Mat
+    second: {fileID: 2100000, guid: 63be91d7a01857447912733d8d9b6f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Voume_Tone_Panel_Knob_2Mat
+    second: {fileID: 2100000, guid: 88a56938fa9dbc543b1d29c76b0ffdf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fender_Telecaster1_Voume_Tone_Panel_Knob_3Mat
+    second: {fileID: 2100000, guid: 2df085aef31590440bd836fcc218a123, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
